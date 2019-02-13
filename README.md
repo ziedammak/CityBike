@@ -5,10 +5,9 @@
 * Silouhette coefficient was used to estimate the number of clusters 
 
 
-## Development Server
-* `npm install`in both folders
 ## Run App
 * open `./Test`
-## Optimal results are stored in `clustering_result.csv`
+## Optimal results are stored in 
+*`clustering_result.csv`
 
 
